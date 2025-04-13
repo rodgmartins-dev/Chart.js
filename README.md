@@ -1,1 +1,1 @@
-Diretorio desttinado ao aprendizado de Chart.js !
+Diretorio destinado ao aprendizado de Chart.js !
